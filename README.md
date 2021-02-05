@@ -22,7 +22,7 @@ message me via LinkedIn. www.linkedin.com/in/faith-kihara-825b57156
 
 ### License
 MIT License
-Copyright (c) [2021] [Ciiku_Kihara]
+Copyright (c) 2021 Ciiku_Kihara
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
