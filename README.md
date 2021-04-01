@@ -1,4 +1,4 @@
-# Python-Pandas-Data-Cleaning
+# PYTHON-DATA-CLEANING
 Google Colab notebook containing cleaned and analyzed data for a telecoms project, 5th February, 2021.
 
 ## Names of Contributors
